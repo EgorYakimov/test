@@ -168,11 +168,11 @@ body._lock {
     top: -100%;
     left: 0;
     width: 100%;
-    height: 500px;
+    height: 100%;
     background: #BFD2F8;
     transition: top 800ms ease;
     padding: 20px;
-    overflow: scroll;
+    overflow: auto;
   }
   .bottom-header__menu._active {
     top: 0;
